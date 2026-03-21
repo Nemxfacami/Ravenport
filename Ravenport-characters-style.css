@@ -135,7 +135,7 @@
       div#other-character-box{
           min-width:3rem;
           height:100%;
-          background:blue;
+          background:none;
           border-radius:0.5rem;
           margin-right:1.5rem
       }
